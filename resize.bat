@@ -1,7 +1,7 @@
+@echo off
+
 rem Resizes the base icon image to common sizes for iOS and Android. Useful if you don't have an SVG.
 rem @author Steve Richey
-
-@echo off
 
 echo Processing images...
 

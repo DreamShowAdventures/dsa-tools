@@ -1,3 +1,5 @@
+@echo off
+
 rem A very lazy way to add everything, commit, and push all in one go.
 
 git add -A
