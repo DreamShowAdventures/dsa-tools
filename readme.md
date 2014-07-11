@@ -1,7 +1,6 @@
 # DSA Tools
-===========
 
-Dream Show Adventures <3 [HaxeFlixel](https://github.com/HaxeFlixel/flixel).
+Dream Show Adventures :heart: [HaxeFlixel](https://github.com/HaxeFlixel/flixel).
 
 This is a collection of common code used by various DSA projects that use HaxeFlixel.
 
